@@ -9,6 +9,7 @@ DJANGO_APPS = [
 
 LOCAL_APPS = [
     'apps.leads',
+    'apps.frontend',
 ]
 
 THRID_PARTY_APPS = [

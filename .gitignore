@@ -114,3 +114,6 @@ settings.json
 
 # log files
 logs/*.log.*
+
+# node
+node_modules/
